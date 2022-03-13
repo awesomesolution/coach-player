@@ -9,11 +9,11 @@ Before application start you need to install following to run this project
 
 Go to back-end directory and run the 'npm install' command to install the npm packages.
 
-1.1 `cd back-end`
-1.2 `npm install`
+1. `cd back-end`
+2. `npm install`
 
 To Run the backend please run the following command Or simply use nodemon 
-1.3. `node server.js`
+1. `node server.js`
 
 This will run the backend on port number 3000
 
@@ -24,7 +24,7 @@ This will run the backend on port number 3000
 
 2. Register Admin user
     - /register-admin => this will allow you to register admin user
-    - Admin user default credentials 
+        - Admin user default credentials => 
         username: admin
         password: admin
 
