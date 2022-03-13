@@ -1,0 +1,2 @@
+# coach-player
+A backend application needs to be developed where coaches can store their team member details like player name, matches played, how much they have won and how much they have lost. Coaches can use this application to find the players based on their name and the sport which they have played. Based on the statistics of matches they have played, the most efficient player is shown on top in the search results. Admin can also find the players across all the teams whereas coaches can search only among their teams which they coach for.
